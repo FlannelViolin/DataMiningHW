@@ -1,0 +1,29 @@
+
+Georgia Partyka
+
+1. This will take ~afternoons day of work. 
+About 2-3 hours to write code, and then a couple more for debugging. 5?
+
+2a. Ethical issues would be to increasing safety vs inceasing efficiency.
+2b. Ethical issues expand to make sure we send tickets to the correct people.
+
+2e. According to by program, 46 is the correct speed. 
+2f.  minimum mixed variance was 13.352049
+2g. It would pick the first one, it does not happen
+2h. Done
+
+3a. mode: 7,8,16
+	median: 12,
+	average: 15.775
+3b. mode: 7,8
+	meadian: 12
+	average: 15.7682
+3c. best Threshold is 12, minimum mixed variance is 1.6835406
+after removing one of the 16s the variance is 1.7524986
+
+4a. estimated time 9-11 hours
+4b. 5/10 (I'ma use 10 so its easier to divide) =2 
+4c.  Well there's this interesting read http://www.joelonsoftware.com/items/2007/10/26.html
+ Generally for me it's a mix of underestimating the time 
+ need to plan and write the code in the first place, which stems from
+ downplaying the problem at hand.
